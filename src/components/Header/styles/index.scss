@@ -1,0 +1,18 @@
+.header {
+    height: 95px;
+    padding-left: 30px;
+    border-bottom: 1px solid rgba(0, 17, 34, 0.1);
+    h4 {
+        color: rgba(0,17, 34, 0.3);
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 27px;
+        padding-top: 19px
+    }
+    h3 {
+        color: rgba(0,17, 34, 0.8);
+        font-size: 22px;
+        line-height: 28px;
+        padding-bottom: 21px;
+    }
+}
